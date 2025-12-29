@@ -12,6 +12,7 @@
 		<Item Name="Authority.ctl" Type="VI" URL="../Authority.ctl"/>
 		<Item Name="URI Components.ctl" Type="VI" URL="../URI Components.ctl"/>
 	</Item>
+	<Item Name="IP" Type="Folder"/>
 	<Item Name="Utility" Type="Folder">
 		<Item Name="Build Query String.vi" Type="VI" URL="../Build Query String.vi"/>
 		<Item Name="Build URI String.vi" Type="VI" URL="../Build URI String.vi"/>
